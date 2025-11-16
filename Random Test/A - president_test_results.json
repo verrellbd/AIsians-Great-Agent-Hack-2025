@@ -1,0 +1,58 @@
+[
+  {
+    "agent": "elephant",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "Joe\u202fBiden.",
+    "runtime_seconds": 8.6,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "fox",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "I can\u2019t answer that. For information on the current US President, I recommend checking a reliable news source or official government website.",
+    "runtime_seconds": 10.52,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "eagle",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": " Screech! I do not have information for you, go find yourself grandma",
+    "runtime_seconds": 1.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "ant",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "```json\n{\n  \"Thought\": \"I now know the final answer\",\n  \"Final Answer\": \"As of today, November 2, 2023, the current president of the United States is Joe Biden. He was inaugurated on January 20, 2021. He is a member of the Democratic Party and previously served as the 47th Vice President under President Barack Obama from 2009 to 2017. Before that, he was a U.S. Senator representing Delaware from 1973 to 2009.\"\n}\n```",
+    "runtime_seconds": 13.65,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "Donald\u202fTrump is the incumbent President of the United\u202fStates, serving as the 47th president since his inauguration on\u202fJanuary\u202f20\u202f2025[[1]](https://en.wikipedia.org/wiki/President_of_the_United_States)[[13]](https://en.wikipedia.org/wiki/President_of_the_United_States?utm_source=valyu.ai&utm_medium=referral).\n\n## Sources\n\n[1] President of the United States - Wikipedia - https://en.wikipedia.org/wiki/President_of_the_United_States\n[13] President of the United States - https://en.wikipedia.org/wiki/President_of_the_United_States?utm_source=valyu.ai&utm_medium=referral\n\nSources used:\n- President of the United States - Wikipedia: https://en.wikipedia.org/wiki/President_of_the_United_States\n- President Donald J. Trump: https://www.whitehouse.gov/administration/donald-j-trump/\n- Donald J. Trump Sworn In as the 47th President of the United States \u2013 The White House: https://www.whitehouse.gov/videos/donald-j-trump-sworn-in-as-the-47th-president-of-the-united-states/\n- Second presidency of Donald Trump - Wikipedia: https://en.wikipedia.org/wiki/Second_presidency_of_Donald_Trump\n- Donald Trump - Wikipedia: https://en.wikipedia.org/wiki/Donald_Trump\n- Joe Biden - Wikipedia: https://en.wikipedia.org/wiki/Joe_Biden\n- President Trump Makes an Announcement, Nov. 6, 2025 - YouTube: https://www.youtube.com/watch?v=oh3VhNzivS8\n- Know all about the Presidents of the United States ahead of Trump\u2019s presidential inauguration - The Hindu: https://www.thehindu.com/news/international/united-states-presidential-inauguration-donald-trump-all-presidents/article69107530.ece\n- Donald Trump is America\u2019s new President | Latest News India - Hindustan Times: https://www.hindustantimes.com/india-news/donald-trump-is-america-s-new-president-101737399029425.html\n- Donald J. Trump: America\u2019s new president - U.S. Embassy in Montenegro: https://me.usembassy.gov/donald-j-trump-americas-new-president/\n- Veterans Day, 2025 \u2013 The White House: https://www.whitehouse.gov/presidential-actions/2025/11/veterans-day-2025/\n- President Trump Makes an Announcement, Nov. 6, 2025 \u2013 The White House: https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-nov-6-2025/\n- President of the United States: https://en.wikipedia.org/wiki/President_of_the_United_States?utm_source=valyu.ai&utm_medium=referral",
+    "runtime_seconds": 6.28,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "The current president of the United States is Joe Biden. He took office on January 20, 2021, and is the 46th president of the United States.",
+    "runtime_seconds": 2.65,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "prompt": "Who is the current president of the US?",
+    "status_code": 200,
+    "response_body": "First, I'll examine the query. Then, I'll process the information. Finally, I'll provide insights.",
+    "runtime_seconds": 0.15,
+    "category": "Incorrect Answer"
+  }
+]

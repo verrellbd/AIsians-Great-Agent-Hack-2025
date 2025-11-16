@@ -1,0 +1,1402 @@
+[
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 6 + 8?",
+    "status_code": 200,
+    "response_body": "14",
+    "runtime_seconds": 12.99,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 5 + 0?",
+    "status_code": 200,
+    "response_body": "5",
+    "runtime_seconds": 11.45,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 1 + 0?",
+    "status_code": 200,
+    "response_body": "1",
+    "runtime_seconds": 5.45,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 5 + 8?",
+    "status_code": 200,
+    "response_body": "13",
+    "runtime_seconds": 3.86,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 2 + 2?",
+    "status_code": 200,
+    "response_body": "4",
+    "runtime_seconds": 7.02,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 6 + 6?",
+    "status_code": 200,
+    "response_body": "I'm processing your request. Please try again.",
+    "runtime_seconds": 22.45,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 2 + 7?",
+    "status_code": 200,
+    "response_body": "I'm processing your request. Please try again.",
+    "runtime_seconds": 20.13,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 3 + 2?",
+    "status_code": 200,
+    "response_body": "5",
+    "runtime_seconds": 8.99,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 2 + 7?",
+    "status_code": 200,
+    "response_body": "9",
+    "runtime_seconds": 5.93,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 7 + 8?",
+    "status_code": 200,
+    "response_body": "15",
+    "runtime_seconds": 4.02,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 4 + 0?",
+    "status_code": 200,
+    "response_body": "4",
+    "runtime_seconds": 4.94,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 2 + 2?",
+    "status_code": 200,
+    "response_body": "4",
+    "runtime_seconds": 2.77,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 4 + 4?",
+    "status_code": 200,
+    "response_body": "4 + 4 = 8.",
+    "runtime_seconds": 3.26,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 5 + 5?",
+    "status_code": 200,
+    "response_body": "10",
+    "runtime_seconds": 4.32,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 1 + 4?",
+    "status_code": 200,
+    "response_body": "5",
+    "runtime_seconds": 2.46,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 2 + 7?",
+    "status_code": 200,
+    "response_body": "9",
+    "runtime_seconds": 5.75,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 1 + 5?",
+    "status_code": 200,
+    "response_body": "6",
+    "runtime_seconds": 3.07,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 4 + 3?",
+    "status_code": 200,
+    "response_body": "7",
+    "runtime_seconds": 4.75,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 1 + 9?",
+    "status_code": 200,
+    "response_body": "10",
+    "runtime_seconds": 4.41,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "elephant",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 0 + 0?",
+    "status_code": 200,
+    "response_body": "0",
+    "runtime_seconds": 5.9,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 6 + 1?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.17,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 0 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 0 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 5 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 9 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 0 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 5 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 0 + 5?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 5 + 9?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 9 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 0 + 5?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.32,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 3 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 5 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 2 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 7 + 6?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 9 + 2?",
+    "status_code": 503,
+    "response_body": null,
+    "runtime_seconds": 19.88,
+    "category": "Error - 503"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 4 + 9?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 5 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.14,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 1 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.33,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "fox",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 7 + 6?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 9 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 8 + 9?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 7 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.11,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 4 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.31,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 8 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 3 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 3 + 8?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 2 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.32,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 3 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 3 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.11,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 8 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 9 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 0 + 9?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 8 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 8 + 1?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 1 + 1?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 9 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 6 + 8?",
+    "status_code": 503,
+    "response_body": null,
+    "runtime_seconds": 23.78,
+    "category": "Error - 503"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 1 + 8?",
+    "status_code": 503,
+    "response_body": null,
+    "runtime_seconds": 16.74,
+    "category": "Error - 503"
+  },
+  {
+    "agent": "eagle",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 2 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 3 + 5?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 4 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.14,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 3 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.12,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 1 + 6?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.15,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 1 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 2 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 7 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 6 + 6?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 5 + 3?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 6 + 5?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 8 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 5 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 0 + 4?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 1 + 0?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 3 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 1 + 2?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.28,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 9 + 5?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.29,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 5 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.27,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 6 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.13,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "ant",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 7 + 7?",
+    "status_code": 504,
+    "response_body": null,
+    "runtime_seconds": 29.3,
+    "category": "Error - 504"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 7 + 3?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.45,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 1 + 6?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.35,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 8 + 9?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.37,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 5 + 8?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.15,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 4 + 0?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.45,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 1 + 2?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.36,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 0 + 4?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.89,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 5 + 5?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.13,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 9 + 5?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.45,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 7 + 1?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.54,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 2 + 3?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.21,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 1 + 1?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.24,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 5 + 7?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 2.24,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 7 + 5?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.09,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 0 + 8?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.86,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 5 + 3?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 2.34,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 6 + 9?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.92,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 1 + 9?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.07,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 6 + 9?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.22,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "wolf",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 5 + 3?",
+    "status_code": 200,
+    "response_body": "I don't have enough information based on the sources provided.",
+    "runtime_seconds": 1.45,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 4 + 2?",
+    "status_code": 200,
+    "response_body": "4 + 2 = 6",
+    "runtime_seconds": 2.15,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 2 + 2?",
+    "status_code": 200,
+    "response_body": "2 + 2 = 4",
+    "runtime_seconds": 2.3,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 5 + 1?",
+    "status_code": 200,
+    "response_body": "5 + 1 = 6",
+    "runtime_seconds": 2.31,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 0 + 1?",
+    "status_code": 200,
+    "response_body": "0 + 1 = 1",
+    "runtime_seconds": 2.06,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 7 + 3?",
+    "status_code": 200,
+    "response_body": "7 + 3 = 10",
+    "runtime_seconds": 2.06,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 6 + 9?",
+    "status_code": 200,
+    "response_body": "6 + 9 = 15",
+    "runtime_seconds": 1.99,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 6 + 6?",
+    "status_code": 200,
+    "response_body": "6 + 6 = 12",
+    "runtime_seconds": 2.26,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 3 + 1?",
+    "status_code": 200,
+    "response_body": "3 + 1 = 4",
+    "runtime_seconds": 2.01,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 4 + 0?",
+    "status_code": 200,
+    "response_body": "4 + 0 = 4",
+    "runtime_seconds": 2.51,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 5 + 3?",
+    "status_code": 200,
+    "response_body": "5 + 3 = 8",
+    "runtime_seconds": 2.22,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 1 + 2?",
+    "status_code": 200,
+    "response_body": "1 + 2 = 3",
+    "runtime_seconds": 2.12,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 2 + 9?",
+    "status_code": 200,
+    "response_body": "2 + 9 = 11",
+    "runtime_seconds": 1.96,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 2 + 7?",
+    "status_code": 200,
+    "response_body": "2 + 7 = 9",
+    "runtime_seconds": 2.3,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 3 + 8?",
+    "status_code": 200,
+    "response_body": "3 + 8 = 11",
+    "runtime_seconds": 2.75,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 0 + 1?",
+    "status_code": 200,
+    "response_body": "0 + 1 = 1",
+    "runtime_seconds": 2.15,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 8 + 7?",
+    "status_code": 200,
+    "response_body": "8 + 7 = 15",
+    "runtime_seconds": 2.12,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 1 + 8?",
+    "status_code": 200,
+    "response_body": "1 + 8 = 9",
+    "runtime_seconds": 2.02,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 0 + 4?",
+    "status_code": 200,
+    "response_body": "0 + 4 = 4",
+    "runtime_seconds": 2.22,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 8 + 2?",
+    "status_code": 200,
+    "response_body": "8 + 2 = 10",
+    "runtime_seconds": 2.31,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "bear",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 2 + 6?",
+    "status_code": 200,
+    "response_body": "2 + 6 = 8",
+    "runtime_seconds": 1.93,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 1,
+    "prompt": "What is 6 + 8?",
+    "status_code": 200,
+    "response_body": "Analyzing your query... You mentioned: What is 6 + 8?...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 2,
+    "prompt": "What is 0 + 3?",
+    "status_code": 200,
+    "response_body": "Processing information...",
+    "runtime_seconds": 0.15,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 3,
+    "prompt": "What is 5 + 3?",
+    "status_code": 200,
+    "response_body": "I'm processing your request, please wait...",
+    "runtime_seconds": 0.12,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 4,
+    "prompt": "What is 0 + 7?",
+    "status_code": 200,
+    "response_body": "Evaluating the request... You mentioned: What is 0 + 7?...",
+    "runtime_seconds": 0.3,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 5,
+    "prompt": "What is 4 + 5?",
+    "status_code": 200,
+    "response_body": "Analyzing your query...",
+    "runtime_seconds": 0.3,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 6,
+    "prompt": "What is 4 + 8?",
+    "status_code": 200,
+    "response_body": "Evaluating the request... You mentioned: What is 4 + 8?...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 7,
+    "prompt": "What is 1 + 5?",
+    "status_code": 200,
+    "response_body": "Evaluating the request...",
+    "runtime_seconds": 0.27,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 8,
+    "prompt": "What is 5 + 0?",
+    "status_code": 200,
+    "response_body": "I'm processing your request, please wait... [Processing at 12:09:38]",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 9,
+    "prompt": "What is 5 + 7?",
+    "status_code": 200,
+    "response_body": "Let me think about this question...",
+    "runtime_seconds": 0.3,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 10,
+    "prompt": "What is 0 + 1?",
+    "status_code": 200,
+    "response_body": "Analyzing your query... You mentioned: What is 0 + 1?...",
+    "runtime_seconds": 0.13,
+    "category": "Correct Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 11,
+    "prompt": "What is 5 + 7?",
+    "status_code": 200,
+    "response_body": "Processing information...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 12,
+    "prompt": "What is 1 + 7?",
+    "status_code": 200,
+    "response_body": "Let me think about this question...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 13,
+    "prompt": "What is 9 + 4?",
+    "status_code": 200,
+    "response_body": "I'm processing your request, please wait... You mentioned: What is 9 + 4?...",
+    "runtime_seconds": 0.14,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 14,
+    "prompt": "What is 8 + 6?",
+    "status_code": 200,
+    "response_body": "Analyzing your query...",
+    "runtime_seconds": 0.14,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 15,
+    "prompt": "What is 9 + 3?",
+    "status_code": 200,
+    "response_body": "Evaluating the request... You mentioned: What is 9 + 3?...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 16,
+    "prompt": "What is 7 + 2?",
+    "status_code": 200,
+    "response_body": "Evaluating the request...",
+    "runtime_seconds": 0.28,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 17,
+    "prompt": "What is 0 + 3?",
+    "status_code": 200,
+    "response_body": "Let me think about this question...",
+    "runtime_seconds": 0.14,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 18,
+    "prompt": "What is 6 + 1?",
+    "status_code": 200,
+    "response_body": "Evaluating the request...",
+    "runtime_seconds": 0.16,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 19,
+    "prompt": "What is 7 + 1?",
+    "status_code": 200,
+    "response_body": "Evaluating the request...",
+    "runtime_seconds": 0.13,
+    "category": "Incorrect Answer"
+  },
+  {
+    "agent": "chameleon",
+    "scenario": "Math Sum",
+    "prompt_number": 20,
+    "prompt": "What is 8 + 8?",
+    "status_code": 200,
+    "response_body": "Processing information... You mentioned: What is 8 + 8?...",
+    "runtime_seconds": 0.15,
+    "category": "Incorrect Answer"
+  }
+]
